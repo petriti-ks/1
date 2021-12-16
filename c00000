@@ -3,196 +3,198 @@
 http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR📺👌
 https://i.top4top.io/m_2111zgb5t0.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1 HD
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102407
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2 FHD
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2 HD
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102408
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel FHD VIP AL
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel FHD 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19486
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/173
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",,Top Channel HD AL
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",,Top Channel HD 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2154
 
-#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KS HUMOR HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78179
-#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★", Humor 1 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2129
-#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★", Humor 2 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2128
-#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KS STUPCAT HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KS Stupcat 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78181
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KS HUMOR 
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78179
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★", Humor 1 
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2129
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★", Humor 2
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2128
+
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★", ●★FILMA ●★🎥
 http://us.bestvideostreaming.is/8740002/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tetova Action HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tetova Action 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95162
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tetova Thriller HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tetova Thriller  
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95159
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tetova Humor HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tetova Humor
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95158
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",T HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",T HD 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2153
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Aksion AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Aksion 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2104
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Thriller AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Thriller 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/177
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Hits AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Hits 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/150
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Hits FHD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Hits 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/91034
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Hits Plus 1 AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Hits Plus 1
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5578
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Drame AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Drame 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/175
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Komedi AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Komedi 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2103
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Autor AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Autor 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/174
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Stinet AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Stinet 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2120
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Digi Gold 1 AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Digi Gold 1 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/686
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Digi Gold 2 AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Digi Gold 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/685
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Digi Gold 3 AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Digi Gold 3 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/684
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Digi Gold 4 AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Digi Gold 4 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/683
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Kino Thriller HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Kino Thriller 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5561
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Kino Premiere 1 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Kino Premiere 1 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2102
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Kino Premiere 2 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Kino Premiere 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2101
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Kino Premiere 3 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Kino Premiere 3 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2100
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tele One 1 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tele One 1 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75473
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tele One 2 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tele One 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75474
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tele One 3 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tele One 3 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75475
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tele One 4 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tele One 4 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75476
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Premiere 1 AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Premiere 1 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14032
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Premiere 2 AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Premiere 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14031
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Premiere 3 AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Premiere 3 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14030
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Premiere 4 AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Premiere 4
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14029
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS SHQIP AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Shqip
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14024
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS AKSION AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Epic
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95120
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Aksion
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14023
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS COMEDY AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14022
-
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Horror HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Horror 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78170
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS THRILLER HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Thriller
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78174
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Film Islam HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Hits
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95117
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Comedy
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14022
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Film Islam 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78182
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS EPIC HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95120
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS HITS HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95117
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Family AL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Family 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95100
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Premiere AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Premiere 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95099
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Oscars AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Oscars 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95098
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Aksion AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Aksion 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95097
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Drame AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Drame 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95096
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Aventure AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Aventure 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95095
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Romance AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Romance 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95094
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Biografi AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Biografi 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95093
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Krim AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Krim 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95092
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Triller AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Triller 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95091
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Mister AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Mister 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95090
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Horror AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Horror 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95089
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 SCI-Fi AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 SCI-Fi 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95088
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Western AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Western 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95087
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Animacion AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Animacion 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95086
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Hindi AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Hindi 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95085
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Aziatika AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Filma24 Aziatika 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95084
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Aksion AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Aksion 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95116
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Fantazi AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Fantazi 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95115
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Horror AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Horror 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95113
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Epik AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Epik 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95109
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Relaks FHD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Relaks 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95108
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Spider-Man AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Spider-Man
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95107
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Jackie Chan AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Jackie Chan 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95106
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Van Damme AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Van Damme 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95105
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Arnold Schwarzenegger AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Arnold Schwarzenegger 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95103
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Sylvester Stallone AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Sylvester Stallone 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95102
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Bud Spencer & Terence Hill AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Bud Spencer & Terence Hill
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95101
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Komedi AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Komedi 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95114
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Aventure AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Aventure
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95112
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Romance AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Romance 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95111
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Femije AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Femije
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95110
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",WebStar Aksion HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",WebStar Aksion 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95175
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",WebStar Cinema HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",WebStar Cinema 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95173
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",WebStar Thriller HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",WebStar Thriller 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95172
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",WebStar Drame HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",WebStar Drame 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95171
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",WebStar Cinema DE HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",WebStar Cinema 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95170
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",WebStar Komedi HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",WebStar Komedi 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95174
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Alb Action HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Alb Action 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5555
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Alb Thriller AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Alb Thriller 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2127
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Alb Western HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Alb Western 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2126
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Alb Movie HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Alb Movie 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5313
 
 
@@ -204,25 +206,25 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5313
 
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",●★PËR FEMIJË●★👨‍👩‍👦
 http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/706200
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",KS PËRALLA HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",KS PËRALLA 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78180
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",Mr Bean AL
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",Mr Bean
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/96413
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",KS Kids HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",KS Kids 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78185
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",Dark Premier Kids FHD AL
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",Dark Premier Kids 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95184
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",Baby Bus TV FHD AL
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",Baby Bus TV 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95179
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",RTSH FEMIJE AL
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",RTSH FEMIJE 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95080
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",Masha dhe Ariu HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",Masha dhe Ariu 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95079
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",X Kids AL
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",X Kids 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95078
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",Tao Tao FHD AL
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",Tao Tao 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95077
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",Bubrreci TV HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",Bubrreci TV 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95076
 
 
@@ -231,71 +233,71 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95076
 
 #EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",●★SPORT HD●★⚽
 http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",RTSH Sport FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",RTSH Sport 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19433
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",OVERSPORT 1 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",OVERSPORT 1 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102492
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",OVERSPORT 2 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",OVERSPORT 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102493
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport Kosova 1 AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport Kosova 1 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/682
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport Kosova 2 AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport Kosova 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/681
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 1 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 1 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/680
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 2 FHD AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/679
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 3 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 3 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/678
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 4 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 4
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/677
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 5 AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 5 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5513
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 6 AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 6
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5512
 
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport News AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport News
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78680
 
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 1 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 1
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19437
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 1 AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 1 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/672
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 2 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19436
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 2 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/671
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 3 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 3 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19435
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 3 AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 3 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/670
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 4 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 4 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19434
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 4 AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Tring Sport 4
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/669
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",EuroSport 1 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",EuroSport 1 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19439
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Eurosport 1 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Eurosport 1 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5511
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",EuroSport 2 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",EuroSport 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19438
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Eurosport 2 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Eurosport 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5510
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport Kosova 1 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport Kosova 1 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19449
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport Kosova 2 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport Kosova 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19448
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport Kosova 3 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport Kosova 3 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19447
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 1 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 1 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19446
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 2 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 2 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19445
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 3 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 3
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19444
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 4 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 4
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19443
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 5 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 5 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19442
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 6 FHD VIP AL
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",Super Sport 6 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19441
