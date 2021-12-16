@@ -1,141 +1,50 @@
-#EXTINF:-1,##########   Albania   ##########
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2521
-#EXTINF:-1,Big Brother 1 FHD AL
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/xk/tvim.tv.epg.xml"
+#EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="●★TV Kombëtare●★",●★TV Kombëtare●★
+http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR📺👌
+https://i.top4top.io/m_2111zgb5t0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1 FHD
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102407
-#EXTINF:-1,Big Brother 2 FHD AL
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2 FHD
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102408
-#EXTINF:-1,Top Channel FHD VIP AL
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel FHD VIP AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19486
-#EXTINF:-1,Top Channel AL
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/173
-#EXTINF:-1,Top Channel HD AL
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",,Top Channel HD AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2154
-#EXTINF:-1,RTK 1 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19493
-#EXTINF:-1,RTK 1 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75257
-#EXTINF:-1,RTK 1 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/168
-#EXTINF:-1,RTK 1 (BackUP) AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5809
-#EXTINF:-1,KTV FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19491
-#EXTINF:-1,KTV FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5700
-#EXTINF:-1,KTV HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2151
-#EXTINF:-1,RTV 21 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19490
-#EXTINF:-1,RTV21 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/164
-#EXTINF:-1,RTV21 (BackUP) AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5813
-#EXTINF:-1,RTV21 Toksor AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5491
-#EXTINF:-1,Klan FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19485
-#EXTINF:-1,Klan HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/172
-#EXTINF:-1,Klan TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/171
-#EXTINF:-1,Klan Kosova FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19488
-#EXTINF:-1,Klan Kosova AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/124
-#EXTINF:-1,Klan Kosova HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2150
-#EXTINF:-1,Klan Plus FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19484
-#EXTINF:-1,Klan Plus AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/6423
-#EXTINF:-1,Klan Plus HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/170
-#EXTINF:-1,Alsat M AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/155
-#EXTINF:-1,Alsat M HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2152
-#EXTINF:-1,Alsat M FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19487
-#EXTINF:-1,TV Globi AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/94749
-#EXTINF:-1,TV 2 Gostivar FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/94750
-#EXTINF:-1,Vizion Plus FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19480
-#EXTINF:-1,Vizion+ HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/169
-#EXTINF:-1,T7 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19483
-#EXTINF:-1,T7 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/13186
-#EXTINF:-1,T7 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/13185
-#EXTINF:-1,TV Dukagjini FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19481
-#EXTINF:-1,TV Dukagjini HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/138
-#EXTINF:-1,RTV 21 MK FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19489
-#EXTINF:-1,RTV21 Maqedonia AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/160
-#EXTINF:-1,RTV 21 Mix FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19474
-#EXTINF:-1,RTV21 Mix AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/161
-#EXTINF:-1,RTV 21 NewsBiz FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19470
-#EXTINF:-1,RTV21 Newsbiz AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2145
-#EXTINF:-1,Kanal 10 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19475
-#EXTINF:-1,Arta News FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19471
-#EXTINF:-1,Arta News AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2111
-#EXTINF:-1,TV Arta AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/113
-#EXTINF:-1,RTSH 1 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19492
-#EXTINF:-1,RTSH 1 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5582
-#EXTINF:-1,TVSH HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/158
-#EXTINF:-1,First Chanel FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19476
-#EXTINF:-1,First Channel AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/151
-#EXTINF:-1,1 First Kosova AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2118
-#EXTINF:-1,Family FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19464
-#EXTINF:-1,Plus HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/688
-#EXTINF:-1,GOLD FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19466
-#EXTINF:-1,GOLD HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/123
-#EXTINF:-1,FILM 1 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5496
-#EXTINF:-1,MAX FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19465
-#EXTINF:-1,MAX HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/176
-#EXTINF:-1,FILM 2 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5495
-#EXTINF:-1,T FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19463
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",Humor 
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148498
+#EXTINF:-1,KS HUMOR HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78179
+#EXTINF:-1,Alb Humor 1 AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2129
+#EXTINF:-1,Alb Humor 2 AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2128
+#EXTINF:-1,KS STUPCAT HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78181
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★", ●★FILMA ●★🎥
+http://us.bestvideostreaming.is/8740002/index.m3u8
+#EXTINF:-1,Tetova Action HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95162
+#EXTINF:-1,Tetova Thriller HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95159
+#EXTINF:-1,Tetova Humor HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95158
+#EXTINF:-1,Tetova Ilahi HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95156
 #EXTINF:-1,T HD AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2153
 #EXTINF:-1,Film Aksion AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2104
+#EXTINF:-1,Film Thriller AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/177
 #EXTINF:-1,Film Hits AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/150
 #EXTINF:-1,Film Hits FHD AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/91034
 #EXTINF:-1,Film Hits Plus 1 AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5578
-#EXTINF:-1,Film Thriller AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/177
 #EXTINF:-1,Film Drame AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/175
 #EXTINF:-1,Film Komedi AL
@@ -144,248 +53,6 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2103
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/174
 #EXTINF:-1,Film Stinet AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2120
-#EXTINF:-1,Film Junior TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5516
-#EXTINF:-1,Explorer History AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/120
-#EXTINF:-1,Explorer Shkence AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/122
-#EXTINF:-1,Explorer Natyra AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/121
-#EXTINF:-1,National Geographic FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19459
-#EXTINF:-1,Living FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19454
-#EXTINF:-1,Living HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/128
-#EXTINF:-1,Jolly FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19455
-#EXTINF:-1,Tring Jolly HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5242
-#EXTINF:-1,Tring Super FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19456
-#EXTINF:-1,Tring Super AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/109
-#EXTINF:-1,Tring Max Action AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2121
-#EXTINF:-1,Tring 3+ AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2122
-#EXTINF:-1,Tring Classic FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/101040
-#EXTINF:-1,Tring Collection FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/101039
-#EXTINF:-1,Tring Comedy AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/133
-#EXTINF:-1,Tring Fantasy AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/131
-#EXTINF:-1,Tring Life AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2105
-#EXTINF:-1,Tring Shqip AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/108
-#EXTINF:-1,Tring Smile AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/135
-#EXTINF:-1,Tring World AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/136
-#EXTINF:-1,Tring Planet AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/134
-#EXTINF:-1,Tring History AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/132
-#EXTINF:-1,TRING KIDS AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5492
-#EXTINF:-1,Tring Tring AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/110
-#EXTINF:-1,Film Kids AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5507
-#EXTINF:-1,MRTV 2 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19479
-#EXTINF:-1,News 24 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19467
-#EXTINF:-1,Ora News FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19472
-#EXTINF:-1,ID Xtra FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19457
-#EXTINF:-1,Channel One FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19473
-#EXTINF:-1,Discovery FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19461
-#EXTINF:-1,Discovery Science FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19460
-#EXTINF:-1,Animal Planet FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19458
-#EXTINF:-1,Apollon News FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19469
-#EXTINF:-1,Abc News FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19468
-#EXTINF:-1,Episode HD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/21104
-#EXTINF:-1,Art Doku 1 HD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/21103
-#EXTINF:-1,Art Doku 2 HD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/21102
-#EXTINF:-1,Art Kino 1 HD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/21107
-#EXTINF:-1,Art Kino 2 HD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/21106
-#EXTINF:-1,Art Kino 3 HD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/21105
-#EXTINF:-1,Zjarr TV FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19453
-#EXTINF:-1,RTK 2 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/167
-#EXTINF:-1,RTK 2 (BackUP) AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5810
-#EXTINF:-1,RTK 3 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/166
-#EXTINF:-1,RTK 3 (BackUP) AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5811
-#EXTINF:-1,RTK 4 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/165
-#EXTINF:-1,RTK 4 (BackUP) AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5812
-#EXTINF:-1,RTSH 2 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5581
-#EXTINF:-1,RTSH 3 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5580
-#EXTINF:-1,RTSH ART HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/157
-#EXTINF:-1,RTSH Film HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5579
-#EXTINF:-1,RTSH Gjirokastra HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2134
-#EXTINF:-1,RTSH Korca HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2136
-#EXTINF:-1,Rtsh Muzike AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/90923
-#EXTINF:-1,RTV21 Junior AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/159
-#EXTINF:-1,RTV 21 Plus FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19450
-#EXTINF:-1,RTV21 Plus AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/163
-#EXTINF:-1,RTV 21 Popullore FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19451
-#EXTINF:-1,RTV21 Popullore AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/162
-#EXTINF:-1,Era TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2115
-#EXTINF:-1,Elrodi TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2140
-#EXTINF:-1,Syri Blue FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5546
-#EXTINF:-1,Dasma TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2138
-#EXTINF:-1,Super Sonic AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/114
-#EXTINF:-1,Folklorit TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5519
-#EXTINF:-1,Folk Plus AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5520
-#EXTINF:-1,Turbo Channel TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5523
-#EXTINF:-1,BBF Musik AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2133
-#EXTINF:-1,TV Opoja AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2139
-#EXTINF:-1,ON TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5535
-#EXTINF:-1,Tetova TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2107
-#EXTINF:-1,Music AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/115
-#EXTINF:-1,MTV Kosova AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/116
-#EXTINF:-1,Click TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5517
-#EXTINF:-1,City TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5521
-#EXTINF:-1,Club TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5518
-#EXTINF:-1,Diaspora TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5525
-#EXTINF:-1,MFM Musik AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5529
-#EXTINF:-1,MUSIC BOX HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5493
-#EXTINF:-1,STV-Folk AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/146
-#EXTINF:-1,TV Folk AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/139
-#EXTINF:-1,AMOL TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5539
-#EXTINF:-1,Star Plus Shkoder FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19478
-#EXTINF:-1,RTV Islam AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5252
-#EXTINF:-1,RTV Iliria HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/7121
-#EXTINF:-1,RTV Pendimi
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/13039
-#EXTINF:-1,Bang Bang AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2106
-#EXTINF:-1,Cufo TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2123
-#EXTINF:-1,Alb Action AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2132
-#EXTINF:-1,Alb Folk AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/143
-#EXTINF:-1,Alb Hits/Bulk AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5553
-#EXTINF:-1,Alb Islam AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5248
-#EXTINF:-1,Alb Movie HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5313
-#EXTINF:-1,Alb Music HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2098
-#EXTINF:-1,Alb Popullore AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2097
-#EXTINF:-1,Alb Western HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2126
-#EXTINF:-1,Channel One HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/126
-#EXTINF:-1,Apollon AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5315
-#EXTINF:-1,Top News AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2144
-#EXTINF:-1,ABC News AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/118
-#EXTINF:-1,News 24 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2142
-#EXTINF:-1,News 24 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2141
-#EXTINF:-1,Ora News HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/119
-#EXTINF:-1,S Aksion AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5549
-#EXTINF:-1,S Drama AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5550
-#EXTINF:-1,S Histori AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5547
-#EXTINF:-1,S Komedi AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5551
-#EXTINF:-1,S Music HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5538
-#EXTINF:-1,S Novela AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5501
-#EXTINF:-1,S Planet AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5500
-#EXTINF:-1,S Shkence AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5548
-#EXTINF:-1,Kino Action AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5559
-#EXTINF:-1,X Gold 1 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5556
-#EXTINF:-1,Kino Family HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5557
-#EXTINF:-1,Kino Premiere 1 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2102
-#EXTINF:-1,Kino Premiere 2 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2101
-#EXTINF:-1,Kino Premiere 3 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2100
-#EXTINF:-1,Kino Sci-Fi HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5560
-#EXTINF:-1,Kino Thriller HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5561
 #EXTINF:-1,Digi Gold 1 AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/686
 #EXTINF:-1,Digi Gold 2 AL
@@ -394,160 +61,23 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/685
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/684
 #EXTINF:-1,Digi Gold 4 AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/683
-#EXTINF:-1,Travel Channel FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19462
-#EXTINF:-1,Travel Channel AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5545
-#EXTINF:-1,TV Besa Prizren AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5541
-#EXTINF:-1,Shenja TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2116
-#EXTINF:-1,Fox HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5577
-#EXTINF:-1,Fox Life AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5576
-#EXTINF:-1,Tema TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5243
-#EXTINF:-1,TV Sharri AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2113
-#EXTINF:-1,Medina TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5245
-#EXTINF:-1,Mekke TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5246
-#EXTINF:-1,Star+ Shkodra AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/3705
-#EXTINF:-1,MRT 1 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2147
-#EXTINF:-1,MRT 2 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2146
-#EXTINF:-1,JUG TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/3707
-#EXTINF:-1,Tip TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5515
-#EXTINF:-1,Peace TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2148
-#EXTINF:-1,Muse AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/129
-#EXTINF:-1,Nat Geo AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5544
-#EXTINF:-1,Fox Crime AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5575
-#EXTINF:-1,Baby TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5533
-#EXTINF:-1,Sofia TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5514
-#EXTINF:-1,Digi Gold AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/687
-#EXTINF:-1,RTV Presheva AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/3693
-#EXTINF:-1,RTV MALISHEVA FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/3692
-#EXTINF:-1,RTV ILIRIDA HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/29504
-#EXTINF:-1,Alb Action HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5555
-#EXTINF:-1,Alb UK HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/154
-#EXTINF:-1,TOP Estrada TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5528
-#EXTINF:-1,Alb Humor 1 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2129
-#EXTINF:-1,Alb Humor 2 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2128
-#EXTINF:-1,Alb Thriller AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2127
-#EXTINF:-1,TV Mitrovica AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2112
-#EXTINF:-1,In TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5542
-#EXTINF:-1,Lugina Islam HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5250
-#EXTINF:-1,AV TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/3690
-#EXTINF:-1,AAB HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5503
-#EXTINF:-1,Adria AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/125
-#EXTINF:-1,Animal Planet HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5543
-#EXTINF:-1,Antena HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5508
-#EXTINF:-1,Channel 7 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/3691
-#EXTINF:-1,Dielli TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5502
-#EXTINF:-1,Docu Box HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5498
-#EXTINF:-1,Drita TV (Test) AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/3699
-#EXTINF:-1,FAST AND FUN BOX HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5497
-#EXTINF:-1,FILM BOX EXTRA HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5494
-#EXTINF:-1,Film Shqip AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5554
-#EXTINF:-1,Kanali 7 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2143
-#EXTINF:-1,Kanal 10 FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/90912
-#EXTINF:-1,Kitchen AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5506
-#EXTINF:-1,KSport Islam TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5254
-#EXTINF:-1,MKTV 2 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5504
-#EXTINF:-1,My Music AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/117
-#EXTINF:-1,Report TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5536
-#EXTINF:-1,Roma TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5531
-#EXTINF:-1,3 Plus AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2117
-#EXTINF:-1,Smile TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5540
-#EXTINF:-1,Tom And Jerry HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/10558
-#EXTINF:-1,TOP Music AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5532
-#EXTINF:-1,TV 1 Shkoder AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/111
-#EXTINF:-1,TV Apollon AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/112
-#EXTINF:-1,TV ASHKALI ILAHI HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/29994
-#EXTINF:-1,TV Dibra AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/148
-#EXTINF:-1,TV Koha AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2114
-#EXTINF:-1,TV Opinion AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5522
-#EXTINF:-1,TV Syri Vision AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/3710
-#EXTINF:-1,TV Tirana AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/137
-#EXTINF:-1,TV Mix Islam HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14169
-#EXTINF:-1,Vizion Plus AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2135
-#EXTINF:-1,Syri Vision TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5499
-#EXTINF:-1,X Gold 2 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14021
-#EXTINF:-1,Zico TV HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/149
-#EXTINF:-1,Shota TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/29503
-#EXTINF:-1,Euro Film HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/29498
-#EXTINF:-1,Euro Film 1 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/29499
-#EXTINF:-1,Euro Film 2 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/29500
-#EXTINF:-1,Euro Film 3 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/29501
-#EXTINF:-1,Euro Film 4 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/29502
+#EXTINF:-1,Kino Thriller HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5561
+#EXTINF:-1,Kino Premiere 1 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2102
+#EXTINF:-1,Kino Premiere 2 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2101
+#EXTINF:-1,Kino Premiere 3 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2100
+#EXTINF:-1,Tele One 1 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75473
+#EXTINF:-1,Tele One 2 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75474
+#EXTINF:-1,Tele One 3 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75475
+#EXTINF:-1,Tele One 4 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75476
+
 #EXTINF:-1,KS Premiere 1 AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14032
 #EXTINF:-1,KS Premiere 2 AL
@@ -562,236 +92,19 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14024
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14023
 #EXTINF:-1,KS COMEDY AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14022
-#EXTINF:-1,Tv 1 Channel Shkoder FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19477
-#EXTINF:-1,Tv Kopliku FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19452
-#EXTINF:-1,T7 Sport HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/22882
-#EXTINF:-1,Motors TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5509
-#EXTINF:-1,EuroSport 1 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19439
-#EXTINF:-1,Eurosport 1 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5511
-#EXTINF:-1,EuroSport 2 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19438
-#EXTINF:-1,Eurosport 2 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5510
-#EXTINF:-1,RTSH Sport FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19433
-#EXTINF:-1,RTSH Sport AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/156
-#EXTINF:-1,OVERSPORT 1 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102492
-#EXTINF:-1,OVERSPORT 2 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102493
-#EXTINF:-1,K Sport 1 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/676
-#EXTINF:-1,K Sport 2 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/675
-#EXTINF:-1,K Sport 3 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/674
-#EXTINF:-1,K Sport 4 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/673
-#EXTINF:-1,Super Sport 1 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/680
-#EXTINF:-1,Super Sport 2 FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/679
-#EXTINF:-1,Super Sport 3 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/678
-#EXTINF:-1,Super Sport 4 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/677
-#EXTINF:-1,Super Sport 5 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5513
-#EXTINF:-1,Super Sport 6 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5512
-#EXTINF:-1,Super Sport Kosova 1 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/682
-#EXTINF:-1,Super Sport Kosova 2 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/681
-#EXTINF:-1,Tring Sport 1 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19437
-#EXTINF:-1,Tring Sport 1 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/672
-#EXTINF:-1,Tring Sport 2 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19436
-#EXTINF:-1,Tring Sport 2 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/671
-#EXTINF:-1,Tring Sport 3 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19435
-#EXTINF:-1,Tring Sport 3 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/670
-#EXTINF:-1,Tring Sport 4 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19434
-#EXTINF:-1,Tring Sport 4 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/669
-#EXTINF:-1,Art Sport 1 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/21101
-#EXTINF:-1,Art Sport 3 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/21099
-#EXTINF:-1,Super Sport Kosova 1 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19449
-#EXTINF:-1,Super Sport Kosova 2 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19448
-#EXTINF:-1,Super Sport Kosova 3 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19447
-#EXTINF:-1,Super Sport 1 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19446
-#EXTINF:-1,Super Sport 2 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19445
-#EXTINF:-1,Super Sport 3 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19444
-#EXTINF:-1,Super Sport 4 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19443
-#EXTINF:-1,Super Sport 5 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19442
-#EXTINF:-1,Super Sport 6 FHD VIP AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19441
-#EXTINF:-1,Tele One 1 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75473
-#EXTINF:-1,Tele One 2 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75474
-#EXTINF:-1,Tele One 3 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75475
-#EXTINF:-1,Tele One 4 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/75476
+
 #EXTINF:-1,KS Horror HD AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78170
 #EXTINF:-1,KS THRILLER HD AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78174
-#EXTINF:-1,KS POPULLORE HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78176
-#EXTINF:-1,KS ÇIFTELI HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78177
-#EXTINF:-1,KS HUMOR HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78179
-#EXTINF:-1,KS PËRALLA HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78180
-#EXTINF:-1,KS STUPCAT HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78181
 #EXTINF:-1,KS Film Islam HD AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78182
-#EXTINF:-1,KS Kids HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78185
-#EXTINF:-1,Dream Works HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78186
-#EXTINF:-1,K Sport 1 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78582
-#EXTINF:-1,K Sport 4 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78583
-#EXTINF:-1,K Sport 2 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78584
-#EXTINF:-1,K Sport 3 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78585
-#EXTINF:-1,A2 AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78677
-#EXTINF:-1,FAX NEWS AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78678
-#EXTINF:-1,Scan Tv AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78679
-#EXTINF:-1,Tring Sport News AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78680
-#EXTINF:-1,Prince Kids HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78682
-#EXTINF:-1,TDC AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/80918
-#EXTINF:-1,TDC FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/80919
-#EXTINF:-1,KANAL D DRAMA ALB
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/82730
-#EXTINF:-1,EuroNews Albania AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/82795
-#EXTINF:-1,RTV Aldi TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/83521
-#EXTINF:-1,TV Syri AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/89762
-#EXTINF:-1,Dark Popullore HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95187
-#EXTINF:-1,Dark Premier Kids FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95184
-#EXTINF:-1,Baby Bus TV FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95179
-#EXTINF:-1,Tele one 5 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95178
-#EXTINF:-1,Tele one 6 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95177
-#EXTINF:-1,WebStar Aksion HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95175
-#EXTINF:-1,WebStar Komedi HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95174
-#EXTINF:-1,WebStar Cinema HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95173
-#EXTINF:-1,WebStar Thriller HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95172
-#EXTINF:-1,WebStar Drame HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95171
-#EXTINF:-1,WebStar Cinema DE HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95170
-#EXTINF:-1,WebStar Muzik HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95169
-#EXTINF:-1,WebStar Popullore HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95168
-#EXTINF:-1,WebStar Qifteli HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95167
-#EXTINF:-1,WebStar Music HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95166
-#EXTINF:-1,WebStar Channel HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95165
-#EXTINF:-1,WebStar Islam HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95164
-#EXTINF:-1,WebStar ChuChu TV AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95163
-#EXTINF:-1,Tetova Action HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95162
-#EXTINF:-1,Tetova Thriller HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95159
-#EXTINF:-1,Tetova Humor HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95158
-#EXTINF:-1,Tetova Ilahi HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95156
-#EXTINF:-1,WebStar Masha Orso AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95122
+
 #EXTINF:-1,KS EPIC HD AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95120
-#EXTINF:-1,Fast & Furious 24/7 FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95119
-#EXTINF:-1,Ks Histori AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95118
 #EXTINF:-1,KS HITS HD AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95117
-#EXTINF:-1,Netflix Aksion AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95116
-#EXTINF:-1,Netflix Fantazi AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95115
-#EXTINF:-1,Netflix Komedi AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95114
-#EXTINF:-1,Netflix Horror AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95113
-#EXTINF:-1,Netflix Aventure AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95112
-#EXTINF:-1,Netflix Romance AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95111
-#EXTINF:-1,Netflix Femije AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95110
-#EXTINF:-1,Netflix Epik AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95109
-#EXTINF:-1,Netflix Relaks FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95108
-#EXTINF:-1,Netflix Spider-Man AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95107
-#EXTINF:-1,Netflix Jackie Chan AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95106
-#EXTINF:-1,Netflix Van Damme AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95105
-#EXTINF:-1,Netflix Dwayne Johnson AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95104
-#EXTINF:-1,Netflix Arnold Schwarzenegger AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95103
-#EXTINF:-1,Netflix Sylvester Stallone AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95102
-#EXTINF:-1,Netflix Bud Spencer & Terence Hill AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95101
+
 #EXTINF:-1,KS Filma24 Family AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95100
 #EXTINF:-1,KS Filma24 Premiere AL
@@ -827,7 +140,83 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95085
 #EXTINF:-1,KS Filma24 Aziatika AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95084
 #EXTINF:-1,Ks Përralla FHD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95081
+
+
+
+#EXTINF:-1,Netflix Aksion AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95116
+#EXTINF:-1,Netflix Fantazi AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95115
+#EXTINF:-1,Netflix Horror AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95113
+
+#EXTINF:-1,Netflix Epik AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95109
+#EXTINF:-1,Netflix Relaks FHD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95108
+#EXTINF:-1,Netflix Spider-Man AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95107
+#EXTINF:-1,Netflix Jackie Chan AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95106
+#EXTINF:-1,Netflix Van Damme AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95105
+#EXTINF:-1,Netflix Arnold Schwarzenegger AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95103
+#EXTINF:-1,Netflix Sylvester Stallone AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95102
+#EXTINF:-1,Netflix Bud Spencer & Terence Hill AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95101
+#EXTINF:-1,Netflix Komedi AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95114
+#EXTINF:-1,Netflix Aventure AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95112
+#EXTINF:-1,Netflix Romance AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95111
+#EXTINF:-1,Netflix Femije AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95110
+
+#EXTINF:-1,WebStar Aksion HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95175
+#EXTINF:-1,WebStar Cinema HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95173
+#EXTINF:-1,WebStar Thriller HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95172
+#EXTINF:-1,WebStar Drame HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95171
+#EXTINF:-1,WebStar Cinema DE HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95170
+#EXTINF:-1,WebStar Komedi HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95174
+
+
+#EXTINF:-1,Alb Action HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5555
+#EXTINF:-1,Alb Thriller AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2127
+#EXTINF:-1,Alb Western HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2126
+#EXTINF:-1,Alb Movie HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5313
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",●★PËR FEMIJË●★👨‍👩‍👦
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/706200
+#EXTINF:-1,KS PËRALLA HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78180
+#EXTINF:-1,Mr Bean AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/96413
+#EXTINF:-1,KS Kids HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78185
+#EXTINF:-1,Dark Premier Kids FHD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95184
+#EXTINF:-1,Baby Bus TV FHD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95179
 #EXTINF:-1,RTSH FEMIJE AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95080
 #EXTINF:-1,Masha dhe Ariu HD AL
@@ -838,11 +227,78 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95078
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95077
 #EXTINF:-1,Bubrreci TV HD AL
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95076
-#EXTINF:-1,TV LLAPI AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95052
-#EXTINF:-1,Mr Bean AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/96413
-#EXTINF:-1,Shpk Nazi 24/7 HD AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/96412
-#EXTINF:-1,BLIC Presheva AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/97395
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",●★SPORT HD●★⚽
+http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
+#EXTINF:-1,RTSH Sport FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19433
+#EXTINF:-1,OVERSPORT 1 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102492
+#EXTINF:-1,OVERSPORT 2 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102493
+#EXTINF:-1,Super Sport Kosova 1 AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/682
+#EXTINF:-1,Super Sport Kosova 2 AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/681
+#EXTINF:-1,Super Sport 1 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/680
+#EXTINF:-1,Super Sport 2 FHD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/679
+#EXTINF:-1,Super Sport 3 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/678
+#EXTINF:-1,Super Sport 4 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/677
+#EXTINF:-1,Super Sport 5 AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5513
+#EXTINF:-1,Super Sport 6 AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5512
+
+#EXTINF:-1,Tring Sport News AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78680
+
+#EXTINF:-1,Tring Sport 1 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19437
+#EXTINF:-1,Tring Sport 1 AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/672
+#EXTINF:-1,Tring Sport 2 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19436
+#EXTINF:-1,Tring Sport 2 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/671
+#EXTINF:-1,Tring Sport 3 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19435
+#EXTINF:-1,Tring Sport 3 AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/670
+#EXTINF:-1,Tring Sport 4 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19434
+#EXTINF:-1,Tring Sport 4 AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/669
+#EXTINF:-1,EuroSport 1 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19439
+#EXTINF:-1,Eurosport 1 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5511
+#EXTINF:-1,EuroSport 2 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19438
+#EXTINF:-1,Eurosport 2 HD AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5510
+#EXTINF:-1,Super Sport Kosova 1 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19449
+#EXTINF:-1,Super Sport Kosova 2 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19448
+#EXTINF:-1,Super Sport Kosova 3 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19447
+#EXTINF:-1,Super Sport 1 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19446
+#EXTINF:-1,Super Sport 2 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19445
+#EXTINF:-1,Super Sport 3 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19444
+#EXTINF:-1,Super Sport 4 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19443
+#EXTINF:-1,Super Sport 5 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19442
+#EXTINF:-1,Super Sport 6 FHD VIP AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19441
