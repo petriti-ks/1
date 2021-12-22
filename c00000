@@ -9,10 +9,11 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102407
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102408
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel FHD 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19486
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel AL
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/173
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",,Top Channel HD 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2154
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel AL
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/173
+
 
 #EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KS Stupcat 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78181
