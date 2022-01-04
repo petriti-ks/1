@@ -16,6 +16,8 @@ http://212.224.98.208:2200/ALB-EX/Big_Brother_Vip-alb/tracks-v1a1/mono.m3u8?toke
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102407
 #EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2 HD
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102408
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",[$]TOP CHANNEL HD
+http://62.210.152.92:25461/kanale2/Ass/8
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",Top Channel FHD 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19486
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",,Top Channel HD 
