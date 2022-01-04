@@ -390,8 +390,7 @@ https://bal.varcdn1.ru/lb/setanta1/index.m3u8|User-Agent=stream
 https://bal.varcdn1.ru/lb/setanta2/index.m3u8|User-Agent=stream
 
 
-#EXTINF:0 group-title="[BR]SPORTE BRAZILIANE" tvg-logo="https://i.imgur.com/tb3IZDY.png",[$]ALL SPORTS HD
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
 #EXTINF:0 group-title="[BR]SPORTE BRAZILIANE" tvg-logo="https://i.imgur.com/XPXX738.png",[$]TNT SPORTS BR5AZIL 1HD
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 group-title="[BR]SPORTE BRAZILIANE" tvg-logo="https://i.imgur.com/ylU8WMF.png",[$]TNT SPORTS B5RAZIL 2HD
@@ -402,7 +401,8 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:0 group-title="[BR]SPORTE BRAZILIANE" tvg-logo="https://i.imgur.com/MijzVjy.png",[$]TNT SPORTS BR5AZIL 5HD
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
+#EXTINF:0 group-title="[BR]SPORTE BRAZILIANE" tvg-logo="https://i.imgur.com/tb3IZDY.png",[$]ALL SPORTS HD
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 
 
