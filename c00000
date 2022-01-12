@@ -1,52 +1,52 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/xk/tvim.tv.epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="●★TV Kombëtare●★",●★TV Kombëtare●★
 http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR 1.📺👌
+#EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR 1 ᴴᴰ📺👌
 https://cdn-cf-east.streamable.com/video/mp4/gnfoyw.mp4?Expires=1641562920&Signature=D8gBRAqtgay9i1ps1GR7OCCR5JHlUNTKmI5ZzEd2DaV4aROHb4GaDx6r2~2eJur8YFj81TJUzuMLXKVpG9F5HY11aWpKiv9ikapfkMjuv9F9cLxJMCKeFLoiu1pQdC9WSTyd5UGZ5HVv3rK0TrryGK4Gt9ydE8G9TZL2Zt0jn-h6sjJBbvYq6t1FzjTuEtJ-jppPffYyYnxrKcsf~u-R8yjgGwBwy85YlUlx0jdBpHWC43aoIINq4bNZSGoeBcKDYgtnO-rFeNTpnI2iFllKMaGudeRvXQuIYAKawnMrWudSXT~yVhVxyDW32HPClNnUrTBa1YkM2EwmaxKt6Qx3Pg__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ
-#EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR 2📺👌
+#EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR 2 ᴴᴰ📺👌
 https://cdn-cf-east.streamable.com/video/mp4/2qqfos.mp4?Expires=1641568140&Signature=UOczKaltWgt5cU4OuIj6vdC0OrZFtxGXwOB78sC4cxAZjbv8~BFQAGDSqD5Cls0tQNC4hyaaVwoRhkbX6khwt5q7NIzFsyPgKbDPt0ppA7JJDlA7FfH9tDDM-77RBe1WAUSlAvnkm5BEHhYqpqcIdjaIRNooRLpqNXLo7Zryxt0Z5SOG9ju9T6mK2-idDnaooj9slC8Nkfz55JNgY08kAZxvj6-a-S4IsUbOMVC8ISDtXw2y4vnaPhZg85naDzGGH7aK-HReIgRGWVzwpCqBFwZjKr0aFuwbyOyCrWlkxt215JBCft0X54zfgkNjHEyqhtMqlAYYZr6Ec1bLUqHFLg__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ
 
-#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/MKSsQTYk/DJ-Music.jpg" group-title="●★TV Kombëtare●★",DJ MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/MKSsQTYk/DJ-Music.jpg" group-title="●★TV Kombëtare●★",DJ MUSIC ᴴᴰ
 https://cdn-cf-east.streamable.com/video/mp4/9gc8i2.mp4?Expires=1641951180&Signature=WwlNZIhN~E0i9EHVRoFwe4XtZx9xTJm8C3uyZc7dVYrQEQpvC1o6eW-pM2p6AhpIWjdxA3mE8jxFxKj8OGvrfTL6kMplPBgZBtqRXbwoIlqt22HQe63MSVcrwe5S6mymPLyBkDpnoYUHSOhNzMCwKsEYTePsfQP4uCof~IFVSCmjMILh9W8RBIkhRJKNlXKxnpPfHY5MpEKlOHJqCn7fd5Ej8JFPGgwn2qUaAHJBSYI1aI5uN3xj2RbT4~8zq8Xp9kv-CgCpG5feLiu8y6IdQbQ2W3pL6l~peGlvrxVIHg43Qd-Dp7mJ2GXOGZ-THP4JvYBSi7LUydQvw2B-ZFxj1A__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ
 
-#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.imgur.com/xuHTCEz.png" group-title="●★TV Kombëtare●★",[$]BIG BROTHER VIP 1HD
+#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.imgur.com/xuHTCEz.png" group-title="●★TV Kombëtare●★",[$]BIG BROTHER VIP 1 ᴴᴰ
 http://212.224.98.208:2200/ALB-EX/Big_Brother_Vip-alb/tracks-v1a1/mono.m3u8?token=RED_5QpFbY4oBOFo7GtPSPkuEg%3D%3D%2C1638335707.4009414566|User-Agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1 HD.
+#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1 ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102407
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2 HD
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2ᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102408
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",[$]TOP CHANNEL HD
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",[$]TOP CHANNEL1ᴴᴰ
 http://62.210.152.92:25461/kanale2/Ass/8
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",Top Channel FHD 
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",Top Channel 2ᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19486
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",,Top Channel HD 
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",,Top Channel 3ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2154
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",Top Channel 
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",Top Channel 4ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/173
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KS Stupcat. 
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KS Stupcatᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78181
-#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KS Humor 1
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KS Humor 1ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78179
-#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★", Humor 2
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★", Humor 2ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2129
-#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",Tetova Humor
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",Tetova Humorᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95158
 
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★", ●★FILMA ●★🎥
 http://us.bestvideostreaming.is/8740002/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tetova Action 
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tetova Actionᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95162
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tetova Thriller  
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tetova Thrillerᴴᴰ  
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95159
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/cLdGZG90/TI.png" group-title="●★Filma●★",T HD 
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/cLdGZG90/TI.png" group-title="●★Filma●★",Tᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2153
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://skupi.club:8080/images/055d605e1171579ae923829ccc27c3ac.png" group-title="●★Filma●★",Film Aksion 
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://skupi.club:8080/images/055d605e1171579ae923829ccc27c3ac.png" group-title="●★Filma●★",Film Aksion ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2104
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Thriller.png" group-title="●★Filma●★",Film Thriller 
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Thriller.png" group-title="●★Filma●★",Film Thriller ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/177
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Hits.png" group-title="●★Filma●★",Film Hits 
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Hits.png" group-title="●★Filma●★",Film Hits ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/150
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Komedi.png" group-title="●★Filma●★",Film Komedi 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2103
