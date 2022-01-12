@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/xk/tvim.tv.epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="●★TV Kombëtare●★",●★TV Kombëtare●★
-http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=
+http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=0
 #EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR 1 ᴴᴰ📺👌
 https://cdn-cf-east.streamable.com/video/mp4/gnfoyw.mp4?Expires=1641562920&Signature=D8gBRAqtgay9i1ps1GR7OCCR5JHlUNTKmI5ZzEd2DaV4aROHb4GaDx6r2~2eJur8YFj81TJUzuMLXKVpG9F5HY11aWpKiv9ikapfkMjuv9F9cLxJMCKeFLoiu1pQdC9WSTyd5UGZ5HVv3rK0TrryGK4Gt9ydE8G9TZL2Zt0jn-h6sjJBbvYq6t1FzjTuEtJ-jppPffYyYnxrKcsf~u-R8yjgGwBwy85YlUlx0jdBpHWC43aoIINq4bNZSGoeBcKDYgtnO-rFeNTpnI2iFllKMaGudeRvXQuIYAKawnMrWudSXT~yVhVxyDW32HPClNnUrTBa1YkM2EwmaxKt6Qx3Pg__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ
 #EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR 2 ᴴᴰ📺👌
