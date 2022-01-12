@@ -24,9 +24,14 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19486
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",,Top Channel 3ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2154
 #EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1ᴴᴰ
-#EXTINF:-1 tvg-id="" tvg-name="RTK 1" tvg-logo="" group-title="Kombtare",RTK 1
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://i.postimg.cc/ZR2dNcBK/RTK-1.png" group-title="●★TV Kombëtare●★",RTK 1 HD
 http://62.210.152.92:25461/kanale2/Ass/48
-
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://i.postimg.cc/s20QFcJ9/RTV-21.png" group-title="●★TV Kombëtare●★",RTV 21 HD
+http://62.210.152.92:25461/kanale2/Ass/13
+#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://i.postimg.cc/zDTBp54k/KTV.png" group-title="●★TV Kombëtare●★",KTV Kohavision 
+http://62.210.152.92:25461/kanale2/Ass/12
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://i.postimg.cc/vH3GSmh5/KLAN-KOSOVA.png" group-title="●★TV Kombëtare●★",Klan Kosova
+http://62.210.152.92:25461/kanale2/Ass/11
 
 #EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KS Stupcatᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78181
@@ -36,6 +41,8 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78179
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2129
 #EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",Tetova Humorᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95158
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",Humor.ᴴᴰ
+http://62.210.152.92:25461/kanale2/Ass/15
 
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★", ●★FILMA ●★🎥
 http://us.bestvideostreaming.is/8740002/index.m3u8
