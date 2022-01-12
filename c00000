@@ -13,6 +13,8 @@ https://cdn-cf-east.streamable.com/video/mp4/9gc8i2.mp4?Expires=1641951180&Signa
 http://212.224.98.208:2200/ALB-EX/Big_Brother_Vip-alb/tracks-v1a1/mono.m3u8?token=RED_5QpFbY4oBOFo7GtPSPkuEg%3D%3D%2C1638335707.4009414566|User-Agent=REDLINECLIENT ANDROID MOBILE 1.0.16
 #EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102407
+#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1ᴴᴰ
+http://62.210.152.92:25461/kanale2/Ass/76
 #EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2ᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102408
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",[$]TOP CHANNEL1ᴴᴰ
@@ -21,8 +23,9 @@ http://62.210.152.92:25461/kanale2/Ass/8
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19486
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",,Top Channel 3ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2154
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="●★TV Kombëtare●★",Top Channel 4ᴴᴰ
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/173
+#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1" tvg-logo="" group-title="Kombtare",RTK 1
+http://62.210.152.92:25461/kanale2/Ass/48
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KS Stupcatᴴᴰ
@@ -48,11 +51,11 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2104
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/177
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Hits.png" group-title="●★Filma●★",Film Hitsᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/150
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Komedi.png" group-title="●★Filma●★",Film Komedi 
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Komedi.png" group-title="●★Filma●★",Film Komediᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2103
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Autor.png" group-title="●★Filma●★",Film Autor 
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Autor.png" group-title="●★Filma●★",Film Autorᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/174
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Stinet.png" group-title="●★Filma●★",Film Stinet 
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Stinet.png" group-title="●★Filma●★",Film Stinetᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2120
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Digi Gold 1ᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/686
@@ -145,11 +148,11 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95084
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Aksion 
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Aksionᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95116
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Fantazi 
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Fantaziᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95115
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Horror 
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Horrorᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95113
 
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Netflix Epikᴴᴰ 
