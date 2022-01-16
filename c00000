@@ -272,6 +272,10 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/677
 #EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/50QthQpX/SPORT5.png" group-title="●★SPORT HD●★",Super Sport 5ᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5513
 
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.imgur.com/CWiXzwX.png" group-title="●★SPORT HD●★",BEIN SPORTS 1HD
+https://matchfree.xyz/live/aiirrv7503662123045323207-letssgooo/23210VgAE0p11/930.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.imgur.com/8sQgEwR.png" group-title="●★SPORT HD●★",BEIN SPORTS 2HD
+https://matchfree.xyz/live/aiirrv7503662123045323207-letssgooo/23210VgAE0p11/931.ts
 #EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Sport%20News.png" group-title="●★SPORT HD●★",Tring Sport Newsᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78680
 
@@ -458,7 +462,6 @@ http://208.86.19.21:80/610.stream/index.m3u8
 
 
 #EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
-
 https://matchfree.xyz/live/aiirrv7503662123045323207-letssgooo/23210VgAE0p11/930.ts
 #EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
 http://fortv.cc:8080/christina/christina/55338
