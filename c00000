@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/xk/tvim.tv.epg.xml"
 
-https://p4n3l.shikoshqip.xyz/api/api.php?get_posts&page=1&count=200&api_key=cda11XyqUfSvTZ01HgwEKRYeumFMsOCAj4P2kVGb9p6nxhQrNW",
-			 "headers":"Data-Agent: The Stream,User-Agent: okhttp/3.11.0",
+https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/ad
 
 
 #EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="●★TV Kombëtare●★",●★10●★
