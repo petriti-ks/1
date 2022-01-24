@@ -6,13 +6,11 @@ https://cdn-cf-east.streamable.com/video/mp4/gnfoyw.mp4?Expires=1641562920&Signa
 #EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR 2ᴴᴰ📺👌
 https://cdn-cf-east.streamable.com/video/mp4/2qqfos.mp4?Expires=1641568140&Signature=UOczKaltWgt5cU4OuIj6vdC0OrZFtxGXwOB78sC4cxAZjbv8~BFQAGDSqD5Cls0tQNC4hyaaVwoRhkbX6khwt5q7NIzFsyPgKbDPt0ppA7JJDlA7FfH9tDDM-77RBe1WAUSlAvnkm5BEHhYqpqcIdjaIRNooRLpqNXLo7Zryxt0Z5SOG9ju9T6mK2-idDnaooj9slC8Nkfz55JNgY08kAZxvj6-a-S4IsUbOMVC8ISDtXw2y4vnaPhZg85naDzGGH7aK-HReIgRGWVzwpCqBFwZjKr0aFuwbyOyCrWlkxt215JBCft0X54zfgkNjHEyqhtMqlAYYZr6Ec1bLUqHFLg__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ
 
-#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/MKSsQTYk/DJ-Music.jpg" group-title="●★TV Kombëtare●★",TV MUSIC-NORAᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/MKSsQTYk/DJ-Music.jpg" group-title="●★TV Kombëtare●★",TV MUSICᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95117
-#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/MKSsQTYk/DJ-Music.jpg" group-title="●★TV Kombëtare●★",TV NORA -HDᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wBw4rKzR/00.png" group-title="●★TV Kombëtare●★",TV NORA -HDᴴᴰ
 http://10.0.8.154:8080
 
-#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.imgur.com/xuHTCEz.png" group-title="●★TV Kombëtare●★",[$]BIG BROTHER VIP 1ᴴᴰ
-http://212.224.98.208:2200/ALB-EX/Big_Brother_Vip-alb/tracks-v1a1/mono.m3u8?token=RED_5QpFbY4oBOFo7GtPSPkuEg%3D%3D%2C1638335707.4009414566|User-Agent=REDLINECLIENT ANDROID MOBILE 1.0.16
 #EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102407
 #EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2ᴴᴰ 
@@ -122,8 +120,7 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78174
 
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Comedyᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/14022
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",KS Film Islamᴴᴰ 
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78182
+
 
 
 
@@ -269,10 +266,7 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19439
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19438
 #EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",OVERSPORT 1 Shqipᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102492
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",OVERSPORT 2 Shqipᴴᴰ
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102493
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",OVERSPORT 3 Shqipᴴᴰ
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102494
+
 #EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="http://skupi.club:8080/images/03b18a23b2fbebc7134da9ae6a8d87e9.png" group-title="●★SPORT HD●★",Super Sport 1ᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/680
 #EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="http://skupi.club:8080/images/1c3b5ed04398a0785d7990935d1bd877.png" group-title="●★SPORT HD●★",Super Sport 2ᴴᴰ 
@@ -284,10 +278,6 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/677
 #EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/50QthQpX/SPORT5.png" group-title="●★SPORT HD●★",Super Sport 5ᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5513
 
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.imgur.com/CWiXzwX.png" group-title="●★SPORT HD●★",BEIN SPORTS 1HD
-https://matchfree.xyz/live/aiirrv7503662123045323207-letssgooo/23210VgAE0p11/930.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.imgur.com/8sQgEwR.png" group-title="●★SPORT HD●★",BEIN SPORTS 2HD
-https://matchfree.xyz/live/aiirrv7503662123045323207-letssgooo/23210VgAE0p11/931.ts
 #EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Sport%20News.png" group-title="●★SPORT HD●★",Tring Sport Newsᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78680
 
