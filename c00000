@@ -6,12 +6,6 @@ https://cdn-cf-east.streamable.com/video/mp4/gnfoyw.mp4?Expires=1641562920&Signa
 
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://image.pngaaa.com/851/2152851-middle.png" group-title="●★TV Kombëtare●★",TV NORA-ᴴᴰ
 http://10.0.8.153:8080
-#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/MKSsQTYk/DJ-Music.jpg" group-title="●★TV Kombëtare●★",TV MUSICᴴᴰ
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95117
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102407
 #EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2ᴴᴰ 
@@ -24,6 +18,8 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19486
 http://62.210.152.92:25461/kanale2/Ass/8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Top Channal  FHD 4K" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channal 3ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2154
+#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/MKSsQTYk/DJ-Music.jpg" group-title="●★TV Kombëtare●★",TV MUSICᴴᴰ
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95117
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://i.postimg.cc/ZR2dNcBK/RTK-1.png" group-title="●★TV Kombëtare●★",RTK 1ᴴᴰ
 http://62.210.152.92:25461/kanale2/Ass/48
 #EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://i.postimg.cc/s20QFcJ9/RTV-21.png" group-title="●★TV Kombëtare●★",RTV 21ᴴᴰ.
