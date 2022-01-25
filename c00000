@@ -5,7 +5,7 @@ http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=0
 https://cdn-cf-east.streamable.com/video/mp4/gnfoyw.mp4?Expires=1641562920&Signature=D8gBRAqtgay9i1ps1GR7OCCR5JHlUNTKmI5ZzEd2DaV4aROHb4GaDx6r2~2eJur8YFj81TJUzuMLXKVpG9F5HY11aWpKiv9ikapfkMjuv9F9cLxJMCKeFLoiu1pQdC9WSTyd5UGZ5HVv3rK0TrryGK4Gt9ydE8G9TZL2Zt0jn-h6sjJBbvYq6t1FzjTuEtJ-jppPffYyYnxrKcsf~u-R8yjgGwBwy85YlUlx0jdBpHWC43aoIINq4bNZSGoeBcKDYgtnO-rFeNTpnI2iFllKMaGudeRvXQuIYAKawnMrWudSXT~yVhVxyDW32HPClNnUrTBa1YkM2EwmaxKt6Qx3Pg__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ
 
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://image.pngaaa.com/851/2152851-middle.png" group-title="●★TV Kombëtare●★",TV NORA-ᴴᴰ
-http://10.0.8.153:8080
+http://10.0.8.154:8080
 #EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102407
 #EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2ᴴᴰ 
