@@ -274,7 +274,16 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/678
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/677
 #EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/50QthQpX/SPORT5.png" group-title="●★SPORT HD●★",Super Sport 5ᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/5513
-
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="http://skupi.club:8080/images/03b18a23b2fbebc7134da9ae6a8d87e9.png" group-title="●★SPORT HD●★",=Super Sport 1ᴴᴰ 
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/70.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="http://skupi.club:8080/images/1c3b5ed04398a0785d7990935d1bd877.png" group-title="●★SPORT HD●★",=Super Sport 2ᴴᴰ 
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/71.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="http://skupi.club:8080/images/23ecce1159d9ab823e859e1ab94cfccd.png" group-title="●★SPORT HD●★",=Super Sport 3 ᴴᴰ
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/72.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",=EuroSport 1 Engᴴᴰ
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="●★SPORT HD●★",=EuroSport 2 Engᴴᴰ
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.ts
 #EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Sport%20News.png" group-title="●★SPORT HD●★",Tring Sport Newsᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78680
 
