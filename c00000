@@ -3,16 +3,9 @@
 http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=0
 #EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR 1ᴴᴰ📺👌
 https://video-private-assets.canva.com/VAE4QI8UDjg/v/99216abf51.mp4?exp=1644776640000&cf-ck=OAABwkYjwXZj2UlmmdawQprMQJHObv9GT23CcclE7TA&cf-sig=e3n5C1EXDn2cl5c2ZfZnXq3GqAAQ1P2nzRRiQZ27OiI&cf-sig-kid=CO7cCjZ_YiI=&sig=j5w5YbnPQM6opW38nwzFy_OcuuVbIVj99YwWDTS3Y5k&sig-kid=GzFgFdhXD-Q=
-#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1ᴴᴰ
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102407
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2ᴴᴰ 
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/102408
-#EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1ᴴᴰnew
-http://62.210.152.92:25461/kanale2/Ass/76
+
 #EXTINF:-1 tvg-id="" tvg-name="AL: Top Channal  FHD 4K" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channal 1ᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19486
-#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channal  FHD 4K" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channal 2ᴴᴰ
-http://62.210.152.92:25461/kanale2/Ass/8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Top Channal  FHD 4K" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channal 3ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2154
 #EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/MKSsQTYk/DJ-Music.jpg" group-title="●★TV Kombëtare●★",TV MUSICᴴᴰ
