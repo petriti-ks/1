@@ -10,6 +10,8 @@ http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/19486
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2154
 #EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/MKSsQTYk/DJ-Music.jpg" group-title="●★TV Kombëtare●★",TV MUSICᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95117
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★TV Kombëtare●★", Hits Musicᴴᴰ
+http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2129
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://i.postimg.cc/ZR2dNcBK/RTK-1.png" group-title="●★TV Kombëtare●★",RTK 1ᴴᴰ
 http://62.210.152.92:25461/kanale2/Ass/48
 #EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://i.postimg.cc/s20QFcJ9/RTV-21.png" group-title="●★TV Kombëtare●★",RTV 21ᴴᴰ.
@@ -23,8 +25,6 @@ http://62.210.152.92:25461/kanale2/Ass/11
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78181
 #EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KS Humor 1ᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/78179
-#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★", Humor 2ᴴᴰ
-http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/2129
 #EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",Tetova Humorᴴᴰ
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95158
 #EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",Humor.ᴴᴰ
@@ -32,16 +32,6 @@ http://62.210.152.92:25461/kanale2/Ass/15
 
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★", ●★FILMA ●★🎥
 http://us.bestvideostreaming.is/8740002/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Premierᴴᴰ 
-http://iptv.serveri.stream:8080/freeios/free/18|User-Agent=28deb6f6
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Luftëᴴᴰ 
-http://iptv.serveri.stream:8080/freeios/free/30|User-Agent=28deb6f6
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Horrorᴴᴰ 
-http://iptv.serveri.stream:8080/freeios/free/27|User-Agent=28deb6f6
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Film Karateᴴᴰ 
-http://iptv.serveri.stream:8080/freeios/free/21|User-Agent=28deb6f6
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="●★Filma●★",Tetova Actionᴴᴰ 
 http://edinpajalic.streamtv.to:8080/qemLgdQP8R/OsWA5tBM27/95162
